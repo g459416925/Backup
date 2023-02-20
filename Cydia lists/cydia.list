@@ -1,0 +1,38 @@
+deb https://apt.bingner.com/ ./
+deb https://apt.25mao.com/ ./
+deb http://cydia.zodttd.com/repo/cydia/ stable main
+deb http://apt.modmyi.com/ stable main
+deb https://havoc.app/ ./
+deb https://evynw.github.io/ ./
+deb https://tweak.mario.net.in/ ./
+deb https://repo.initnil.com/ ./
+deb https://halo-michael.github.io/repo/ ./
+deb http://repo.qqtlr.com/ ./
+deb https://opa334.github.io/ ./
+deb https://yilai.yttxcs.com/ ./
+deb https://cydia.ichitaso.com/ ./
+deb https://tigisoftware.com/cydia/ ./
+deb https://ios.jjolano.me/ ./
+deb https://sharman79.github.io/Netskao/ ./
+deb https://repo.packix.com/ ./
+deb http://apt.thebigboss.org/repofiles/cydia/ stable main
+deb https://julioverne.github.io/ ./
+deb https://cydia.akemi.ai/ ./
+deb https://udevsharold.github.io/repo/ ./
+deb https://lenglengyu.com/ ./
+deb https://repo.chariz.com/ ./
+deb https://miro92.com/repo/ ./
+deb https://nahtedetihw.github.io/ ./
+deb https://wstclzy2010.github.io/repo/ ./
+deb https://repo.dynastic.co/ ./
+deb https://sparkdev.me/ ./
+deb https://repo.yttxcs.com/ ./
+deb https://julio.hackyouriphone.org/ ./
+deb http://getdelta.co/ ./
+deb https://cokepokes.github.io/ ./
+deb https://rejail.ru/ ./
+deb https://wilson.antti.codes/repo/ ./
+deb https://repo.icrazeios.com/ ./
+deb https://subdiox.com/cydia/ ./
+deb https://repo.festival.tf/ ./
+deb https://repo.cydiabc.top/ ./
